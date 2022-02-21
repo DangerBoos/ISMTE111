@@ -26,3 +26,13 @@ data/desktop.ini
 .gitignore
 Chapter05/.ipynb_checkpoints/desktop.ini
 desktop.ini
+Chapter10/R/CustomerSegmentation.R
+Chapter11/R/CustomerRetention.R
+Chapter05/R/ProductAnalytics.R
+Chapter03/R/RegressionAnalysis.R
+Chapter02/R/ConversionRate.R
+Chapter02/python/.ipynb_checkpoints/ConversionRate-checkpoint.ipynb
+desktop_REMOTE_1109.ini
+desktop_LOCAL_1109.ini
+desktop_BASE_1109.ini
+desktop_BACKUP_1109.ini
